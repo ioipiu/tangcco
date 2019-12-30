@@ -8,5 +8,7 @@ package cn.kgc.tangcco.action;
 public class hahah {
     public void test(){
         System.out.println("测试分支");
+        System.out.println("测试分支");
+
     }
 }
